@@ -1,1 +1,5 @@
-select * from employee
+SELECT  [id] as alter_sp
+      ,[name]
+      ,[dateofjoining]
+      ,[adres]
+  FROM [Employee]

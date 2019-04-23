@@ -10,6 +10,7 @@ namespace sqlpush
     {
         static void Main(string[] args)
         {
+            string x="ujjawal";
         }
     }
 }
